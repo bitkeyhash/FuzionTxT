@@ -1,4 +1,4 @@
-# 🏈 FuzionTxT: The Ultimate Permutation Combination Playmaker! 🏆
+# 🏈 FuzionTxT: The Ultimate Permutation Combination File TXT Playmaker! 🏆
 
 ## 🌟 Welcome to the FuzionTxT Huddle! 🏟️
 
@@ -11,8 +11,8 @@ FuzionTxT is a bash script that combines lines from two files, creating a playbo
 ## 🏁 How to Run This Play
 
 1. 📥 Download the `FuzionTxT.sh` script
-2. 🏃‍♂️ Run it in your terminal: `bash FuzionTxT.sh`
-3. 🎯 Follow the on-screen prompts to input your file names
+2. 🏃‍♂️ Run it in your terminal: `chmod +x fuziontxt.sh && ./fuziontxt.sh`
+3. 🎯 Follow the on-screen prompts to input your file names and output.
 
 ## 🏈 Game Features
 
@@ -25,7 +25,7 @@ FuzionTxT is a bash script that combines lines from two files, creating a playbo
 ## 🎮 Example Gameplay
 
 ```bash
-$ bash FuzionTxT.sh
+$ ./fuziontxt.sh
  .------------------------------.
  | _____          _             |
  ||  ___|   _ ___(_) ___  _ __  |
