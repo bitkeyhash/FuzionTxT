@@ -10,8 +10,8 @@ FuzionTxT is a bash script that combines lines from two files, creating a playbo
 
 ## 🏁 How to Run This Play
 
-1. 📥 Download the `fuziontxt.sh` script by using git `git clone https://github.com/bitkeyhash/FuzionTxT.git`
-2. 🏃‍♂️ Run it in your terminal: `cd FuzionTxT && chmod +x fuziontxt.sh && ./fuziontxt.sh`
+1. 📥 Download the `fuziontxt.sh` script by using git `git clone https://github.com/bitkeyhash/FuzionTxT.git && cd FuzionTxT`
+2. 🏃‍♂️ Run it in your terminal: `chmod +x fuziontxt.sh && ./fuziontxt.sh`  or `bash fuziontxt.sh`
 3. 🎯 Follow the on-screen prompts to input your file names and output.
 
 ## 🏈 Game Features
